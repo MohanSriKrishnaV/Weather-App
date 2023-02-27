@@ -1,0 +1,30 @@
+.details {
+    margin: 20px;
+
+}
+
+#danger {
+    background-color: lightcoral;
+    margin-top: 20px;
+    width: auto;
+}
+
+#display {
+    background-color: aquamarine;
+}
+
+
+* {
+    font-size: large;
+    font-weight: bolder;
+}
+
+#hist {
+    margin-top: 60px;
+    background-color: lightblue;
+
+}
+
+#old-search {
+    color: darkgreen;
+}
